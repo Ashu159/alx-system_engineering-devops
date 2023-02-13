@@ -1,2 +1,2 @@
-0;10;1c0;10;1c#!/bin/bash
-find . -type d ! -path . -print | wc -1
+#!/bin/bash
+find . -type d ! -path . -print | wc -l
