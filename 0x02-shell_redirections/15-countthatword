@@ -1,5 +1,5 @@
- #!/bin/bash
- grep  -A  3  "bin" /etc/passwd
+0;10;1c0;10;1c #!/bin/bash
+grep  -c  bin /etc/passwd
 
 
 
